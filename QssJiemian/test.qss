@@ -1,0 +1,22 @@
+QSlider::add-page:horizontal{
+  background:#D8D8D8;
+}
+
+QSlider::groove:horizontal{
+  height:8px;
+  border-radius:3px;
+  background:#ff0000;
+}
+/*就是那个圆圈滑过之后滑过后的配置*/
+QSlider::sub-page:horizontal{
+  background:#575757;
+}
+
+QSlider::handle:horizontal{
+  width:13px;
+  margin-top:-3px;
+  margin-bottom:-3px;
+  border-radius:6px;
+  border-image : url("../image/btn_ok.png")
+  /*background:qradialgradient(spread:pad,cx:0.5,cy:0.5,radius:0.5,fx:0.5,fy:0.5,stop:0.6 #FFFFFF,stop:0.8 #575757);*/
+}

@@ -1,0 +1,7 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+f.10086.cn	FALSE	/	FALSE	3610861720	UUID	04a1d22c-cbad-4da3-b266-5008ce96f2a5
+f.10086.cn	FALSE	/	FALSE	1471160121	cell_cookie	1df87a63259ade5da09f92dd5756780d|d20c982b11d321c9|58cce95e15dc2ef507d4d5f0a4779740|1
+f.10086.cn	FALSE	/	FALSE	1471160121	loginstatusCookie	400
